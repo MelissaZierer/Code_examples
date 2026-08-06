@@ -1,0 +1,3 @@
+- OOP: Game, Alien
+- Algorithm: Scenario, Animal, ShoreSet
+- Data structures: HashSearch
